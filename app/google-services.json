@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "892429377189",
+    "firebase_url": "https://sensorrecord.firebaseio.com",
+    "project_id": "sensorrecord",
+    "storage_bucket": "sensorrecord.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:892429377189:android:f5cf90b6710c67c132b74c",
+        "android_client_info": {
+          "package_name": "com.example.sensorrecord"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "892429377189-c11pda36hvkbgnqlc0dklj8l7hou1plf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7DDQMs38FvqZEFwwBQMsEN_hpe_HFbmE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "892429377189-c11pda36hvkbgnqlc0dklj8l7hou1plf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
